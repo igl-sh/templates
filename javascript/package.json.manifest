@@ -1,0 +1,12 @@
+{
+    "name": "{{name}}",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "igl test",
+        "lint": "igl lint .",
+        "format": "igl format --write .",
+        "start": "igl ."
+    }
+}
